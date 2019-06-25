@@ -1,4 +1,4 @@
-### Food-101-classification-using-ResNet-50
+## Food-101-classification-using-ResNet-50
 
 Used various Data Augmentation techniques (during training) and Test Time Augmentation (10-crops Testing) to achieve 86.27% top-1 accuracy. (SOTA top-1 accuracy is 90.52%)
 
